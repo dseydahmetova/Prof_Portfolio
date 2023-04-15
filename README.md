@@ -18,7 +18,7 @@ A portfolio is a compilation of materials that exemplifies your beliefs, skills,
 ✔️ Big Projects
 ✔️ Contact me
 
-To view demo, **[click here](https://dana-seidakhmetova.netlify.app/)**.
+## To view demo: https://dana-seidakhmetova.netlify.app/
 
 
 ## Getting Started
