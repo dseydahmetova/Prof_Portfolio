@@ -1452,3 +1452,19 @@ p {
   font-size: 18px;
   font-weight: 600;
 }
+
+.skill-icon i {
+  color: #3c288a;
+}
+
+@media (max-width: 768px) {
+  .skill-icons-container {
+    display: flex;
+    flex-wrap: wrap; 
+    /* justify-content: center;  */
+  }
+  .skill-icon {
+    width: 20%;
+  }
+
+}
